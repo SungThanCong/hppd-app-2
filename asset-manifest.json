@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/hppd-app-2/static/css/main.c637abaa.chunk.css",
-    "main.js": "/hppd-app-2/static/js/main.9d70d711.chunk.js",
-    "main.js.map": "/hppd-app-2/static/js/main.9d70d711.chunk.js.map",
+    "main.css": "/hppd-app-2/static/css/main.24ab6168.chunk.css",
+    "main.js": "/hppd-app-2/static/js/main.58983362.chunk.js",
+    "main.js.map": "/hppd-app-2/static/js/main.58983362.chunk.js.map",
     "runtime-main.js": "/hppd-app-2/static/js/runtime-main.c6d301a7.js",
     "runtime-main.js.map": "/hppd-app-2/static/js/runtime-main.c6d301a7.js.map",
     "static/js/2.f522d9e8.chunk.js": "/hppd-app-2/static/js/2.f522d9e8.chunk.js",
     "static/js/2.f522d9e8.chunk.js.map": "/hppd-app-2/static/js/2.f522d9e8.chunk.js.map",
     "index.html": "/hppd-app-2/index.html",
-    "static/css/main.c637abaa.chunk.css.map": "/hppd-app-2/static/css/main.c637abaa.chunk.css.map",
+    "static/css/main.24ab6168.chunk.css.map": "/hppd-app-2/static/css/main.24ab6168.chunk.css.map",
     "static/js/2.f522d9e8.chunk.js.LICENSE.txt": "/hppd-app-2/static/js/2.f522d9e8.chunk.js.LICENSE.txt",
     "static/media/avt.47ccb733.png": "/hppd-app-2/static/media/avt.47ccb733.png",
     "static/media/App.css": "/hppd-app-2/static/media/img-sky.719a4789.jpg",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.c6d301a7.js",
     "static/js/2.f522d9e8.chunk.js",
-    "static/css/main.c637abaa.chunk.css",
-    "static/js/main.9d70d711.chunk.js"
+    "static/css/main.24ab6168.chunk.css",
+    "static/js/main.58983362.chunk.js"
   ]
 }
